@@ -1,0 +1,12 @@
+[
+  {"id": "A1-001", "name": "Bulbasaur", "set_id": "A1", "rarity": "One Star", "boosters": [{"id": "A1-mewtwo", "name": "Mewtwo Pack"}, {"id": "A1-charizard", "name": "Charizard Pack"}], "image": null},
+  {"id": "A1-004", "name": "Charmander", "set_id": "A1", "rarity": "One Star", "boosters": [{"id": "A1-charizard", "name": "Charizard Pack"}], "image": null},
+  {"id": "A1-007", "name": "Squirtle", "set_id": "A1", "rarity": "One Star", "boosters": [{"id": "A1-pikachu", "name": "Pikachu Pack"}], "image": null},
+  {"id": "A1-025", "name": "Pikachu", "set_id": "A1", "rarity": "One Star", "boosters": [{"id": "A1-pikachu", "name": "Pikachu Pack"}, {"id": "A1-mewtwo", "name": "Mewtwo Pack"}], "image": null},
+  {"id": "A1-094", "name": "Gengar", "set_id": "A1", "rarity": "One Star", "boosters": [{"id": "A1-mewtwo", "name": "Mewtwo Pack"}], "image": null},
+  {"id": "A1-103", "name": "Exeggutor", "set_id": "A1", "rarity": "One Star", "boosters": [{"id": "A1-charizard", "name": "Charizard Pack"}, {"id": "A1-pikachu", "name": "Pikachu Pack"}], "image": null},
+  {"id": "A1-130", "name": "Gyarados", "set_id": "A1", "rarity": "One Star", "boosters": [{"id": "A1-pikachu", "name": "Pikachu Pack"}], "image": null},
+  {"id": "A1-145", "name": "Zapdos", "set_id": "A1", "rarity": "One Star", "boosters": [{"id": "A1-pikachu", "name": "Pikachu Pack"}, {"id": "A1-mewtwo", "name": "Mewtwo Pack"}], "image": null},
+  {"id": "A1-150", "name": "Mewtwo", "set_id": "A1", "rarity": "One Star", "boosters": [{"id": "A1-mewtwo", "name": "Mewtwo Pack"}], "image": null},
+  {"id": "A1a-012", "name": "Mew", "set_id": "A1a", "rarity": "One Star", "boosters": [{"id": "A1a-mew", "name": "Mythical Island Pack"}], "image": null}
+]
